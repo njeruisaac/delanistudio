@@ -94,7 +94,7 @@ html{
     padding-top:40px;
     font-family: 'Quattrocento', serif;
   }
-  .contact{
+.contact{
     background-image: url('../images/backgrounds/c_image.jpg');
     background-position: center center;
     background-size: cover;
@@ -102,13 +102,23 @@ html{
     color: white;
     text-align: center;
   }
-  .title{
+.title{
     padding: 6px;
   }
-  .contact h2{
+.contact h2{
     text-align: center;
     margin-top: 30px;
     padding-top: 40px;
     padding-bottom: 20px;
     font-family: 'Quattrocento', serif;
+  }
+input[type=text],input[type=email],#comment{
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: 'Raleway', sans-serif;
+  }
+  
+.form-control::-webkit-input-placeholder { 
+    color: white; 
   }
