@@ -1,7 +1,7 @@
 html{
     scroll-behavior: smooth;
   }
-  .landing{
+.landing{
     background-image: url('../images/backgrounds/h_img.jpg');
     background-position: center center;
     background-size: cover;
@@ -10,3 +10,11 @@ html{
     text-align: center;
     padding-top:17%; 
     font-family: 'Gabriela', serif;
+  }
+ .landing h1{
+    padding: 2px;
+    margin: 5px;
+      }
+ .landing p{
+    padding: 2px;
+      }
