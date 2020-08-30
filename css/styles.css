@@ -49,3 +49,13 @@ html{
 #about{
     font-family: 'Yanone Kaffeesatz', sans-serif;
   }
+.services{
+    text-align: center;
+    background-image: url("../images/backgrounds/s_image.jpg");
+    color: white;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 18px;
+  }
