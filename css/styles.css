@@ -92,5 +92,23 @@ html{
 .portfolio h2{
     text-align: center;
     padding-top:40px;
-    font-family: 'Gabriela', serif;
+    font-family: 'Quattrocento', serif;
+  }
+  .contact{
+    background-image: url('../images/backgrounds/c_image.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+  }
+  .title{
+    padding: 6px;
+  }
+  .contact h2{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: 'Quattrocento', serif;
   }
